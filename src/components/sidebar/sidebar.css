@@ -30,12 +30,17 @@
   cursor: pointer;
   display:flex;
   align-items: center;
-  border-radius:10px;
+  border-radius:20px;
 }
 
-.sidebarListItem.active,
+.sidebarListItem.active{
+  background-color:rgb(166, 166, 199);
+}
+
 .sidebarListItem:hover{
-  background-color:rgb(164, 164, 198);
+  background-color:rgb(201, 201, 230);
+
+  
 }
 
 .sidebarIcon{

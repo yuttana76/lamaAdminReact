@@ -1,14 +1,15 @@
-# 1
-## 2
-### 3
-
 ### This Tutorial
 
 React Admin Dashboard Tutorial | React Admin Panel Design Course for Beginners
 https://www.youtube.com/watch?v=aTPkos3LKi8
 
 ### Play now
+
 54:23
+
+### Next tutorial
+
+https://www.youtube.com/watch?v=y66RgYMAgSo
 
 ### Adddition lib
 
@@ -23,8 +24,11 @@ $ npm install recharts
 
 https://fonts.google.com/specimen/Kanit?query=kanit
 
-snipet key short cut
+### snipet key short cut
+
 rfc
+
+rfce
 
 ###Git
 ssh-keygen -R cpt.southeastasia.cloudapp.azure.com
